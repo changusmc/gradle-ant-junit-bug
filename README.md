@@ -1,0 +1,1 @@
+# gradle-ant-junit-bug
